@@ -1,4 +1,5 @@
- **🚀 Vaishnavi Bhujbal | Data Analyst & Aspiring Data Scientist**
+ ## 🚀 Vaishnavi Bhujbal | Data Analyst & Aspiring Data Scientist
+🔗Connect With Me On  [LinkedIn](https://www.linkedin.com/in/vaishnavi-bhujbal123/) | [HackerRank](https://www.hackerrank.com/profile/bhujbalvaishnav3)
 
 🌟 My Journey into the World of Data Science
 A year ago, I was just another student trying to figure out my future. After completing FYBSc, I took a leap of faith and dedicated my gap year to exploring something that had always intrigued me—Data Science. Fast forward to today, I’ve built interactive dashboards, developed Python applications, and analyzed complex datasets.
@@ -41,9 +42,4 @@ I've always loved mathematics and statistics, solving problems for fun and recog
 - 🥈 Silver Badge (Python)  
 - 🏆 SQL Basic Certificate  
  
-
-🔗 ## 📫 Connect with Me  
-#### Check my services page on LinkedIn
-🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-bhujbal123/) | [GitHub](https://github.com/bhujbalvaishnavi143/) | [HackerRank](https://www.hackerrank.com/profile/bhujbalvaishnav3)
-
 🚀 Exploring, Learning, and Growing!
