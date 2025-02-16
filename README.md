@@ -1,69 +1,49 @@
-👋 Hi, I'm VAISHNAVI BHUJBAL !!
+ **🚀 Vaishnavi Bhujbal | Data Analyst & Aspiring Data Scientist**
 
-👨‍💻 About Me
-I am a passionate and self-driven data enthusiast with a strong foundation in Data Analysis, Visualization, and Exploratory Data Analysis (EDA). 
-Currently pursuing a career in the Data Science domain, I leverage my expertise in tools and technologies to derive meaningful insights and solve real-world problems.
-I am a motivated and self-taught aspiring Data Analyst with a solid foundation in Mathematics, Statistics, and Exploratory Data Analysis (EDA). 
-During my gap year, I honed my skills in tools and technologies such as Excel, MySQL, Power BI, Python, and Tableau, enabling me to analyze and visualize data to derive actionable insights. 
-My goal is to solve real-world business challenges through data-driven decision-making.
+🌟 My Journey into the World of Data Science
+A year ago, I was just another student trying to figure out my future. After completing FYBSc, I took a leap of faith and dedicated my gap year to exploring something that had always intrigued me—Data Science. Fast forward to today, I’ve built interactive dashboards, developed Python applications, and analyzed complex datasets.
 
-📚 Education
-BSc (FYBSc Completed)
-(Took a gap year to focus on acquiring hands-on skills in data science.)
+🎓 My Background
+I've always loved mathematics and statistics, solving problems for fun and recognizing the hidden patterns in numbers. However, I never realized how these skills could be applied to real-world scenarios until I discovered data science—where numbers meet storytelling. It became the perfect field to combine my analytical thinking with creativity.
 
-🛠️ Skills & Expertise
-Technical Skills:
-🟢 Programming: Python 
-🟢 Database Management: MySQL (Proficient in query building and optimization)
-🟢 Data Visualization Tools: Tableau, Power BI
-🟢 Excel: Advanced Excel (Dashboards, Macros, Data Analysis)
-🟢 EDA: Proficient in identifying trends, outliers, and actionable insights.
-🟢 Mathematics & Statistics: Strong understanding of probability, hypothesis testing, and regression.
+## 🛠️ Technical Skills  
 
-📂 PROJECTS 
-1. Retail Sales Analysis (MS Excel)
-Objective: Created a dashboard to analyze retail sales data.
-Highlights:
-Tracked total sales, identified top categories and products.
-Included demographic analysis, payment method trends, and sales patterns by day and month.
-Tools: Pivot Tables, Logical Statements, Conditional Formatting.
+### 🔹 Technical Skills & Tools:  
+✅ **Programming:** Python, SQL  
+✅ **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+✅ **Machine Learning:** Scikit-learn, NLP, Supervised & Unsupervised Learning  
+✅ **BI & Dashboarding:** Power BI, Tableau, DAX, Power Query  
+✅ **Statistical Analysis:** Hypothesis Testing, Performance Metrics, Predictive Analytics  
+✅ **Excel:** Advanced Excel, Data Cleaning, Trend Analysis  
 
-2.Walmart Sales Analysis (MySQL)
-Objective: Performed sales analysis using MySQL to uncover trends and patterns in Walmart sales data.
-Key Highlights:
-Extracted and cleaned raw data.
-Analyzed sales trends, peak sales periods, and product performance.
-Generated actionable business insights.
+### 🔹 Techniques & Processes:  
+🔹 Data Cleaning, Data Transformation, EDA  
+🔹 Predictive Analytics, Data Insights, Trend Analysis  
+🔹 Performance Metrics, NLP, Feature Engineering  
 
-3.Zomato Dashboard (Power BI)
-Objective: Built a detailed dashboard for analyzing sales and user engagement data for Zomato.
-Key Highlights:
-KPI Metrics: Sales, ratings, active users.
-Visuals: Trends, city performance, and dynamic titles using DAX.
-Delivered actionable insights into top-performing food categories and cities.
+---
 
-4. IBM Employee Analysis (Tableau)
-Objective: Designed a Tableau dashboard to analyze employee trends and HR metrics.
-Highlights:
-Explored attrition, department distribution, compensation, and ratings.
-Visuals: Heat Maps, Doughnut Charts, Bubble Charts, Star Charts.
-Insights helped identify gaps in retention and satisfaction.
+## 🏆 Certifications & Achievements  
 
-5. Road Accident Analysis (Tableau)
-Objective: Analyzed road accident metrics to guide safety measures.
-Highlights:
-Tracked accident severity, contributing factors (vehicle type, road conditions, weather).
-Tools: Maps, Dynamic Metrics, Parameters
- ......................................MANY MORE DATA ANALYSIS LIKE THESE....................................
+📜 **IT Vedant:**  
+- Master’s in Data Science & Analytics with AI  
+- Advanced Excel, SQL, Tableau Desktop, Power BI  
+- Python for Data Science, Machine Learning, Analysis with Python  
+- Statistics for DS, Profile Building  
 
-📜 Certifications
-Advanced Excel Certificate - ITVedant
-MySQL Certificate - ITVedant
+📜 **Forage:**  
+- BCG Data Science Job Simulation  
+- BCG Gen AI Job Simulation  
+- Tata Group Data Visualization  
 
-💡 Quote
-"The goal is to turn data into information and information into insight."
+📜 **HackerRank:**  
+- 🏅 Gold Badge (SQL)  
+- 🥈 Silver Badge (Python)  
+- 🏆 SQL Basic Certificate  
+ 
 
--
-bhujbalvaishnavi143/bhujbalvaishnavi143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 ## 📫 Connect with Me  
+#### Check my services page on LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-bhujbal123/) | [GitHub](https://github.com/bhujbalvaishnavi143/) | [HackerRank](https://www.hackerrank.com/profile/bhujbalvaishnav3)
+
+🚀 Exploring, Learning, and Growing!
