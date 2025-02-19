@@ -1,10 +1,10 @@
- ## 🚀 Vaishnavi Bhujbal | Data Analyst & Aspiring Data Scientist
+ # 🚀 Vaishnavi Bhujbal | Data Analyst & Aspiring Data Scientist
 🔗Connect With Me On  [LinkedIn](https://www.linkedin.com/in/vaishnavi-bhujbal123/) | [HackerRank](https://www.hackerrank.com/profile/bhujbalvaishnav3)
 
-🌟 My Journey into the World of Data Science
+### 🌟 My Journey into the World of Data Science
 A year ago, I was just another student trying to figure out my future. After completing FYBSc, I took a leap of faith and dedicated my gap year to exploring something that had always intrigued me—Data Science. Fast forward to today, I’ve built interactive dashboards, developed Python applications, and analyzed complex datasets.
 
-🎓 My Background
+### 🎓 My Background
 I've always loved mathematics and statistics, solving problems for fun and recognizing the hidden patterns in numbers. However, I never realized how these skills could be applied to real-world scenarios until I discovered data science—where numbers meet storytelling. It became the perfect field to combine my analytical thinking with creativity.
 
 ## 🛠️ Technical Skills  
@@ -22,17 +22,23 @@ I've always loved mathematics and statistics, solving problems for fun and recog
 🔹 Predictive Analytics, Data Insights, Trend Analysis  
 🔹 Performance Metrics, NLP, Feature Engineering  
 
----
+-
 
 ## 🏆 Certifications & Achievements  
 
 📜 **IT Vedant:**  
-- Master’s in Data Science & Analytics with AI  
-- Advanced Excel, SQL, Tableau Desktop, Power BI  
+- Master’s in Data Science & Analytics with AI - Certification courses with  
+- Advanced Excel, SQL, Tableau Desktop, MS Power BI  
 - Python for Data Science, Machine Learning, Analysis with Python  
 - Statistics for DS, Profile Building  
 
-📜 **Forage:**  
+📜 **IBM:**  
+- Master in Data Science & Analytics with AI -learning path covering 3 courses
+ 1. Python 101 for Data Science
+ 2. Data Analysis Using Python
+ 3. Machine learning with Python
+
+📜 **Forage: Job Simulations**  
 - BCG Data Science Job Simulation  
 - BCG Gen AI Job Simulation  
 - Tata Group Data Visualization  
